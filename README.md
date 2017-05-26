@@ -22,9 +22,9 @@ The file sentences.txt contains some sample sentences in order to reproduce the 
 
 If you use this software, data or modify the code please cite the following publication:
 
-     - [1] Domínguez, M., M. Farrús, J. Codina and L. Wanner (2017b). A Thematicity-based Prosody Enrichment Tool for CTS. Submitted to show and tell demonstrations at Interspeech 2017, Stockholm, Sweden.
+     - [1] Domínguez, M., M. Farrús, and L. Wanner (2017). A Thematicity-based Prosody Enrichment Tool for CTS. Accepted in show and tell demonstrations at Interspeech 2017, Stockholm, Sweden.
 
 Further references:
 
-     - Domínguez, M., M. Farrús, J. Codina and L. Wanner (2017a). Thematicity-based Prosody Enrichment for a TTS System. Submitted to Interspeech 2017, Stockholm, Sweden.
+     - Domínguez, M., M. Farrús, J. Codina and L. Wanner (2017a). On the Empirical Derivation of Thematicity-based Prosody Enrichment. Submitted to the 5th International Conference on Statistical Language and Speech Processing (SLSP 2017), Le Mans, France.
      - Domínguez, M., M. Farrús, A. Burga, and L. Wanner (2016). Using hierarchical information structure for prosody prediction in content-to-speech applications. In Proceedings of the 8th International Conference on Speech Prosody, Boston, USA, 2016, pp. 1019–1023.
