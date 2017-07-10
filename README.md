@@ -26,5 +26,5 @@ If you use this software, data or modify the code please cite the following publ
 
 Further references:
 
-     - Domínguez, M., M. Farrús, J. Codina and L. Wanner (2017a). On the Empirical Derivation of Thematicity-based Prosody Enrichment. Submitted to the 5th International Conference on Statistical Language and Speech Processing (SLSP 2017), Le Mans, France.
+     - Domínguez, M., M. Farrús, J. Codina and L. Wanner (2017a). A Data-driven Approach to Thematicity-based Prosody Enrichment. Submitted to the 5th International Conference on Statistical Language and Speech Processing (SLSP 2017), Le Mans, France.
      - Domínguez, M., M. Farrús, A. Burga, and L. Wanner (2016). Using hierarchical information structure for prosody prediction in content-to-speech applications. In Proceedings of the 8th International Conference on Speech Prosody, Boston, USA, 2016, pp. 1019–1023.
